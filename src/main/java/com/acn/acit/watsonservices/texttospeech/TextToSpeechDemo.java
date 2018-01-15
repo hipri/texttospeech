@@ -14,7 +14,7 @@ public class TextToSpeechDemo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		TextToSpeech service = new TextToSpeech();
-		service.setUsernameAndPassword("d67a1f09-1431-4675-a355-101e582bda7b", "0Nqmy2UEPczQ");
+		service.setUsernameAndPassword("9e3f4433-d69b-4b66-a3a9-42c0bf0766e4", "MDEuIbVdyFdI");
 
 		try {
 			String text = "Hello world";
